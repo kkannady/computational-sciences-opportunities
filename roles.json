@@ -1,5 +1,13 @@
 [
   {
+    "title": "Senior Machine Learning Engineer, Small Molecule Drug Discovery, AI for Drug Discovery",
+    "org": "AI for Drug Discovery",
+    "location": "South San Francisco",
+    "req": "202611-129632",
+    "url": "https://careers.gene.com/us/en/job/202611-129632/Senior-Machine-Learning-Engineer-Small-Molecule-Drug-Discovery-AI-for-Drug-Discovery",
+    "focus": "Molecular Design & Discovery"
+  },
+  {
     "title": "Senior Scientific Software Engineer, Analytics and Workflows",
     "org": "Computational Sciences CoE",
     "location": "South San Francisco",
@@ -22,14 +30,6 @@
     "req": "202611-128905",
     "url": "https://careers.gene.com/us/en/job/202611-128905/Machine-Learning-Scientist-Frontier-Research-AI-for-Drug-Discovery-AIDD",
     "focus": "Foundation & Reasoning Models"
-  },
-  {
-    "title": "Senior Software Engineer - Lab Automation",
-    "org": "Computational Sciences CoE",
-    "location": "South San Francisco",
-    "req": "202611-128292",
-    "url": "https://careers.gene.com/us/en/job/202611-128292/Senior-Software-Engineer-Lab-Automation",
-    "focus": "Lab Automation & Robotics"
   },
   {
     "title": "Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)",
