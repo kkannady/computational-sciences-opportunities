@@ -1,82 +1,186 @@
 [
   {
-    "title": "Senior Machine Learning Engineer, Small Molecule Drug Discovery, AI for Drug Discovery",
-    "org": "AI for Drug Discovery",
-    "location": "South San Francisco",
-    "req": "202611-129632",
-    "url": "https://careers.gene.com/us/en/job/202611-129632/Senior-Machine-Learning-Engineer-Small-Molecule-Drug-Discovery-AI-for-Drug-Discovery",
-    "focus": "Molecular Design & Discovery"
-  },
-  {
-    "title": "Senior Scientific Software Engineer, Analytics and Workflows",
-    "org": "Computational Sciences CoE",
-    "location": "South San Francisco",
-    "req": "202611-128988",
-    "url": "https://careers.gene.com/us/en/job/202611-128988/Senior-Scientific-Software-Engineer-Analytics-and-Workflows",
+    "title": "Machine Learning Engineer, Infra, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202607-120009",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202607-120009",
     "focus": "ML Engineering & Infrastructure"
   },
   {
-    "title": "Senior Principal Product Leader",
-    "org": "Computational Sciences CoE",
-    "location": "South San Francisco",
-    "req": "202611-128908",
-    "url": "https://careers.gene.com/us/en/job/202611-128908/Senior-Principal-Product-Leader",
-    "focus": "Scientific Product Leadership"
+    "title": "Machine Learning Scientist, Structure-Function ML, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202607-118920",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202607-118920",
+    "focus": "Molecular Design & Discovery"
   },
   {
-    "title": "Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
-    "org": "AI for Drug Discovery",
-    "location": "South San Francisco",
-    "req": "202611-128905",
-    "url": "https://careers.gene.com/us/en/job/202611-128905/Machine-Learning-Scientist-Frontier-Research-AI-for-Drug-Discovery-AIDD",
-    "focus": "Foundation & Reasoning Models"
-  },
-  {
-    "title": "Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)",
-    "org": "AI for Drug Discovery",
-    "location": "South San Francisco",
-    "req": "202608-121326",
-    "url": "https://careers.gene.com/us/en/job/202608-121326/Senior-Machine-Learning-Scientist-Protein-ML-AI-for-Drug-Discovery-AIDD",
+    "title": "Senior Scientist, Antibody Developability/Biophysics & Portfolio Support, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202608-120346",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-120346",
     "focus": "Protein & Biologics ML"
   },
   {
-    "title": "Principal Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
-    "org": "AI for Drug Discovery",
+    "title": "Senior Principal Scientist, Large Molecule ML Translation, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
     "location": "See official posting",
-    "req": "202608-121261",
-    "url": "https://careers.gene.com/us/en/job/202608-121261/Principal-Machine-Learning-Scientist-Frontier-Research-AI-for-Drug-Discovery-AIDD",
+    "req": "202608-120345",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-120345",
+    "focus": "Protein & Biologics ML"
+  },
+  {
+    "title": "Principal Scientist, SOP & Workflow Automation Champion, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202608-120343",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-120343",
+    "focus": "Computational Sciences"
+  },
+  {
+    "title": "Senior Machine Learning Scientist, Protein ML, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202608-121326",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-121326",
+    "focus": "Protein & Biologics ML"
+  },
+  {
+    "title": "Senior / Principal Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202602-103618",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202602-103618",
     "focus": "Foundation & Reasoning Models"
   },
   {
-    "title": "Machine Learning Scientist/Senior Machine Learning Scientist, Agents for Applied Small Molecule Drug Design, AIDD",
-    "org": "AI for Drug Discovery",
+    "title": "Principal Machine Learning Engineer, Foundation Models, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202609-122724",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202609-122724",
+    "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202602-103501",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202602-103501",
+    "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Principal Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202608-121261",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-121261",
+    "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202611-128905",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202611-128905",
+    "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Senior Machine Learning Scientist, Frontier Research, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202610-127404",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202610-127404",
+    "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Agents for Applied Small Molecule Drug Design,(AIDD)",
+    "org": "AIDD",
     "location": "See official posting",
     "req": "202606-115525",
-    "url": "https://careers.gene.com/us/en/job/202606-115525/Machine-Learning-Scientist-Senior-Machine-Learning-Scientist-Agents-for-Applied-Small-Molecule-Drug-Design-AIDD",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202606-115525",
     "focus": "Agentic AI"
   },
   {
-    "title": "Senior/Principal Machine Learning Scientist, Perturbation Biology, AI Biology & Translation (AIBT)",
-    "org": "AI for Biology & Translation",
-    "location": "South San Francisco",
-    "req": "202606-114787",
-    "url": "https://careers.gene.com/us/en/job/202606-114787/Senior-Principal-Machine-Learning-Scientist-Perturbation-Biology-AI-Biology-Translation-AIBT",
-    "focus": "Biology & Translation"
-  },
-  {
-    "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID",
-    "org": "AI for Biology & Translation",
-    "location": "South San Francisco",
-    "req": "202604-110245",
-    "url": "https://careers.gene.com/us/en/job/202604-110245/AI-Scientist-Senior-Clinical-Molecular-Genomics-Modeling-BRAID",
-    "focus": "Biology & Translation"
-  },
-  {
-    "title": "Machine Learning Scientist, Scientific Reasoning Models, AI for Drug Discovery",
-    "org": "AI for Drug Discovery",
+    "title": "Machine Learning Scientist/Senior Machine Learning Scientist - Synthesis Planning, AI for Drug Discovery (AIDD)",
+    "org": "AIDD",
     "location": "See official posting",
-    "req": "202602-103501",
-    "url": "https://careers.gene.com/us/en/job/202602-103501/Machine-Learning-Scientist-Scientific-Reasoning-Models-AI-for-Drug-Discovery",
+    "req": "202606-115542",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202606-115542",
+    "focus": "Molecular Design & Discovery"
+  },
+  {
+    "title": "Computational Methods Developer, Small Molecule Drug Discovery, AIDD",
+    "org": "AIDD",
+    "location": "See official posting",
+    "req": "202611-129632",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202611-129632",
+    "focus": "Molecular Design & Discovery"
+  },
+  {
+    "title": "Senior/Principal Machine Learning Scientist, Perturbation Biology, AI Biology & Translation (AIBT)",
+    "org": "AIBT",
+    "location": "See official posting",
+    "req": "202606-114787",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202606-114787",
+    "focus": "Biology & Translation"
+  },
+  {
+    "title": "Senior Machine Learning Scientist, Foundational ML, AI for Biology & Translation (AIBT)",
+    "org": "AIBT",
+    "location": "See official posting",
+    "req": "202606-117077",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202606-117077",
     "focus": "Foundation & Reasoning Models"
+  },
+  {
+    "title": "Senior Machine Learning Engineer, Agentic Science/Generative Models, AI for Biology & Translation (AIBT)",
+    "org": "AIBT",
+    "location": "See official posting",
+    "req": "202608-120617",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202608-120617",
+    "focus": "Agentic AI"
+  },
+  {
+    "title": "AI Scientist/Senior, Clinical & Molecular Genomics Modeling, BRAID (AIBT)",
+    "org": "AIBT",
+    "location": "See official posting",
+    "req": "202604-110245",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202604-110245",
+    "focus": "Biology & Translation"
+  },
+  {
+    "title": "Senior Data Scientist (AI-assisted Clinical Development)",
+    "org": "PDD",
+    "location": "See official posting",
+    "req": "202604-110822",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202604-110822",
+    "focus": "Biology & Translation"
+  },
+  {
+    "title": "Global Head, Autonomous Platform Strategy & Portfolio, Accelerator",
+    "org": "Accelerator",
+    "location": "See official posting",
+    "req": "202610-127931",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202610-127931",
+    "focus": "Autonomous Lab Accelerator"
+  },
+  {
+    "title": "Global Head, Platform Technology Development, Accelerator",
+    "org": "Accelerator",
+    "location": "See official posting",
+    "req": "202610-128033",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202610-128033",
+    "focus": "Autonomous Lab Accelerator"
+  },
+  {
+    "title": "Lead Automation Engineer, Autonomous Lab Science & Technology, Accelerator",
+    "org": "Accelerator",
+    "location": "See official posting",
+    "req": "202610-127934",
+    "url": "https://careers.gene.com/us/en/search-results?keywords=202610-127934",
+    "focus": "Autonomous Lab Accelerator"
   }
 ]
